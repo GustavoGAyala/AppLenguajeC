@@ -1,4 +1,4 @@
-# **Trabajo practico Programacion Bajo Nivel (algoritmo y programacion III)**
+# **Programacion Bajo Nivel (Lenguaje C)**
 
 
 Integrantes:
