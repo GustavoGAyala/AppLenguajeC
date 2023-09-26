@@ -1,0 +1,8 @@
+Para compilar:
+Abrir terminal en la raiz del proyecto "Grupo1" y ejecutar la siguiente linea:
+
+gcc -o programa.exe main.c src/*.c -I include
+
+./bin/programa.exe
+
+se almacena en grupo1/bin/programa.exe  (se puede cambiar la ruta)
